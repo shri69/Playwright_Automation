@@ -18,6 +18,7 @@
   "homepage": "https://github.com/shri69/Playwright_Automation#readme",
   "devDependencies": {
     "@playwright/test": "^1.53.1",
-    "@types/node": "^24.0.3"
+    "@types/node": "^24.0.3",
+    "typescript": "^5.8.3"
   }
 }
