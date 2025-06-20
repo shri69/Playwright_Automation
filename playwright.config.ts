@@ -86,4 +86,3 @@ const config =({
   // },
 });
 export default config;
-module.exports = config; // For CommonJS compatibility
